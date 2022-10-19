@@ -1,4 +1,5 @@
 # quiz
+This is a demo app for the Fresher's Orientation '22.
 
 ## Project setup
 ```
@@ -18,6 +19,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Lints, fixes files and starts the development server
+```
+npm run dev
 ```
 
 ### Customize configuration
